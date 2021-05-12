@@ -1,6 +1,7 @@
 .square {
   background-color: #444;
   /* margin: 10px; */
+  color: white;
   border: 1px solid gold;
   width: 100px;
   height: 100px;
@@ -8,6 +9,7 @@
   cursor: pointer;
 }
 
-.square:hover {
-  background-color: #555;
+.square:focus {
+  outline: none;
+  background-color: #222;
 }

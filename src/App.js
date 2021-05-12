@@ -5,7 +5,7 @@ import Board from "./Board";
 function App() {
   return (
     <div className="App">
-      Game
+      Tic-Tac-Toe
       <Board />
     </div>
   );
