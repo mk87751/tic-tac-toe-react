@@ -1,0 +1,19 @@
+body {
+  background-color: #444;
+  color: white;
+  font: 32px "century Gothic", Futura, sans-serif;
+  margin: 20px;
+  padding: 20px;
+  display: flex;
+  justify-content: center;
+  /* align-items: center; */
+}
+
+.App {
+  text-align: center;
+  background-color: salmon;
+  min-width: 60vh;
+  max-width: 80vh;
+  height: 80vh;
+  /* height: 50vh; */
+}

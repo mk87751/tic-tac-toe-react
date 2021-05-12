@@ -1,0 +1,10 @@
+.board {
+  background-color: salmon;
+  /* margin: 10px; */
+}
+
+.board-row {
+  display: flex;
+  justify-content: center;
+  flex-direction: row;
+}
